@@ -64,6 +64,8 @@ http://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36",VTVCab16 - Bóng dá TV HD
 http://103.75.186.169/b4tv/b4tv/3.m3u8
 #https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  - KIPTV" , VTVCab16 - ON FOOTBALL
 http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36",VTVCab16 - Bóng dá TV HD SV2
@@ -167,12 +169,13 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@720p.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV"  tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam B?
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
-#https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV"  tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent="Thanhkb"
+https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV"  tvg-logo="https://i.ibb.co/9nXs3CK/VTV5-tay-nguyen.png" ,VTV5 Tây Nguyên
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
-#https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#EXTVLCOPT:http-user-agent="Thanhkb"
+https://vips-livecdn.fptplay.net/hda3/vtv5tn_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:0 tvg-id="VTC1" tvg-name="VTC1" "group-title="VTC " tvg-logo="https://i.ibb.co/xXWgKyz/VTC1.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
 #EXTVLCOPT:http-user-agent="Thanhkb"
