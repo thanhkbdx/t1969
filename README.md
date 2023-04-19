@@ -82,20 +82,26 @@ https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/p
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
-
-#EXTINF:-1,beIN SPORTS PREMIUM 1 HD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36418
-#EXTINF:-1,beIN SPORTS PREMIUM 2 HD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36420
-#EXTINF:-1,beIN SPORTS PREMIUM 3 HD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36415
+#EXTINF:-1,EPL: NOW SPORTS 1 
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/111250
+#EXTINF:-1,EPL: NOW SPORTS 
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/111251
+#EXTINF:-1,EPL: NOW SPORTS 3 
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/111252
 #EXTINF:-1, Ngoại hạng CV1
 http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068091
 #EXTINF:-1, Ngoại hạng CV2
 http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068090
 #EXTINF:-1, Ngoại hạng CV3
 http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068089
-
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Supersport 1
+https://hqth.me/g3F1
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="Satellite TV", Astro Supersport 2
+https://hqth.me/rb4v9t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="Satellite TV", Astro Supersport 3
+https://hqth.me/TQ1
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="Satellite TV", Astro Supersport 4
+https://hqth.me/NAoPP
 #EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
 #EXTVLCOPT:http-user-agent=Thanhkb
 https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b1200000.m3u8
