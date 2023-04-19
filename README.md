@@ -33,13 +33,15 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep EURO
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep EURO
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep EURO
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
+https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
@@ -80,6 +82,19 @@ https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/p
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
+
+#EXTINF:-1,beIN SPORTS PREMIUM 1 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36418
+#EXTINF:-1,beIN SPORTS PREMIUM 2 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36420
+#EXTINF:-1,beIN SPORTS PREMIUM 3 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36415
+#EXTINF:-1, Ngoại hạng CV1
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068091
+#EXTINF:-1, Ngoại hạng CV2
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068090
+#EXTINF:-1, Ngoại hạng CV3
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068089
 
 #EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
 #EXTVLCOPT:http-user-agent=Thanhkb
