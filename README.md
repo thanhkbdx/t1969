@@ -465,7 +465,7 @@ https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Qu?c T?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 #EXTVLCOPT:http-user-agent="Thanhkb"
-http://live.vthanhtivi.pw/hbo
+#http://live.vthanhtivi.pw/hbo
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -475,7 +475,7 @@ https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 #EXTVLCOPT:http-user-agent="Thanhkb"
-http://live.vthanhtivi.pw/cinemax
+https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
 #https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
