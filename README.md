@@ -80,12 +80,12 @@ http://103.75.186.169/b4tv/b4tv/4.ts
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
-https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/playlist.m3u8
-#http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
+#https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/playlist.m3u8
+http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
-#http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/441/hd.m3u8
 #EXTINF:-1,EPL: NOW SPORTS 1 
 http://lexitech.fun:80/PatrickF/1jvJAEOIjF/111250
 #EXTINF:-1,EPL: NOW SPORTS 
