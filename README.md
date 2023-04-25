@@ -98,14 +98,20 @@ http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068091
 http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068090
 #EXTINF:-1, Ngoại hạng CV3
 http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068089
-#EXTINF:-1 group-title="Tổng hợp" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Supersport 1
-https://hqth.me/g3F1
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="Satellite TV", Astro Supersport 2
-https://hqth.me/rb4v9t
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="Satellite TV", Astro Supersport 3
-https://hqth.me/TQ1
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://logo.yurend.net/08.olahraga/aasp.png" group-title="Satellite TV", Astro Supersport 4
-https://hqth.me/NAoPP
+#EXTINF:-1, Ngoại hạng CV4
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/268671
+#EXTINF:-1,beIN Sports Premium 1 FHD VIP AR
+http://mytv.fun:80/tommy/137xjytsyw/53432
+#EXTINF:-1,beIN Sports Premium 1 HD VIP AR
+http://mytv.fun:80/tommy/137xjytsyw/688156
+#EXTINF:-1,beIN Sports Premium 2 FHD VIP AR
+http://mytv.fun:80/tommy/137xjytsyw/688157
+#EXTINF:-1,beIN Sports Premium 2 HD VIP AR
+http://mytv.fun:80/tommy/137xjytsyw/5474
+#EXTINF:-1,beIN Sports Premium 3 FHD VIP AR
+http://mytv.fun:80/tommy/137xjytsyw/5473
+#EXTINF:-1,beIN Sports Premium 3 HD VIP AR
+http://mytv.fun:80/tommy/137xjytsyw/691817
 #EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
 #EXTVLCOPT:http-user-agent=Thanhkb
 https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b1200000.m3u8
