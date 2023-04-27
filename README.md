@@ -86,20 +86,10 @@ http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 https://code.vthanhtivi.pw/getlink/mytv/441/hd.m3u8
-#EXTINF:-1,EPL: NOW SPORTS 1 
-http://lexitech.fun:80/PatrickF/1jvJAEOIjF/111250
-#EXTINF:-1,EPL: NOW SPORTS 
-http://lexitech.fun:80/PatrickF/1jvJAEOIjF/111251
-#EXTINF:-1,EPL: NOW SPORTS 3 
-http://lexitech.fun:80/PatrickF/1jvJAEOIjF/111252
-#EXTINF:-1, Ngoại hạng CV1
-http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068091
-#EXTINF:-1, Ngoại hạng CV2
-http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068090
-#EXTINF:-1, Ngoại hạng CV3
-http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068089
-#EXTINF:-1, Ngoại hạng CV4
-http://lexitech.fun:80/PatrickF/1jvJAEOIjF/268671
+#EXTINF:-1, Ngoại hạng Anh 1
+http://mytv.fun:80/tommy/137xjytsyw/694236
+#EXTINF:-1, Ngoại hạng Anh 2
+http://mytv.fun:80/tommy/137xjytsyw/697185
 #EXTINF:-1,beIN Sports Premium 1 FHD VIP AR
 http://mytv.fun:80/tommy/137xjytsyw/53432
 #EXTINF:-1,beIN Sports Premium 1 HD VIP AR
@@ -112,6 +102,7 @@ http://mytv.fun:80/tommy/137xjytsyw/5474
 http://mytv.fun:80/tommy/137xjytsyw/5473
 #EXTINF:-1,beIN Sports Premium 3 HD VIP AR
 http://mytv.fun:80/tommy/137xjytsyw/691817
+
 #EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
 #EXTVLCOPT:http-user-agent=Thanhkb
 https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b1200000.m3u8
