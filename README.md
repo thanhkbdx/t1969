@@ -464,7 +464,7 @@ http://livevlive.vtvcab.vn/BTV5/m30_index.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Qu?c T?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Qu?c T?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 1
 #EXTVLCOPT:http-user-agent="Thanhkb"
 http://gg.gg/thanhHBO1
 
@@ -472,6 +472,9 @@ http://gg.gg/thanhHBO1
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-0-0.m3u8
 
+#EXTINF:-1 tvg-id="hbohd" group-title="Qu?c T?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 3
+#EXTVLCOPT:http-user-agent="Thanhkb"
+http://uslive.vthanhtivi.pw/hbo
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -479,15 +482,20 @@ https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-0-0.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
 https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD 1
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
+
 #https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD 3
+#EXTVLCOPT:http-user-agent="Thanhkb"
+http://uslive.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/192.png", Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
