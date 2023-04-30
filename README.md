@@ -87,45 +87,9 @@ http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 https://code.vthanhtivi.pw/getlink/mytv/441/hd.m3u8
 #EXTINF:-1, Ngoại hạng Anh 1
-http://mytv.fun:80/tommy/137xjytsyw/694236
+http://gg.gg/Nhang1
 #EXTINF:-1, Ngoại hạng Anh 2
-http://mytv.fun:80/tommy/137xjytsyw/697185
-#EXTINF:-1,beIN Sports Premium 1 FHD VIP AR
-http://mytv.fun:80/tommy/137xjytsyw/53432
-#EXTINF:-1,beIN Sports Premium 1 HD VIP AR
-http://mytv.fun:80/tommy/137xjytsyw/688156
-#EXTINF:-1,beIN Sports Premium 2 FHD VIP AR
-http://mytv.fun:80/tommy/137xjytsyw/688157
-#EXTINF:-1,beIN Sports Premium 2 HD VIP AR
-http://mytv.fun:80/tommy/137xjytsyw/5474
-#EXTINF:-1,beIN Sports Premium 3 FHD VIP AR
-http://mytv.fun:80/tommy/137xjytsyw/5473
-#EXTINF:-1,beIN Sports Premium 3 HD VIP AR
-http://mytv.fun:80/tommy/137xjytsyw/691817
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
-https://webudit.salamus1.lol/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro Super Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
-https://webudit.salamus1.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711", Astro Super Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
-https://webudit.salamus1.lol/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Super Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
-https://webudit.salamus1.lol/lb/premium126/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", Astro Super Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
-https://webudit.salamus1.lol/lb/premium43/index.m3u8
+http://gg.gg/Nhang2
 
 #EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
 #EXTVLCOPT:http-user-agent=Thanhkb
