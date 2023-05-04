@@ -616,6 +616,10 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#EXTVLCOPT:http-user-agent="Thanhkb"
+https://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/228.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
