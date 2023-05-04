@@ -62,11 +62,11 @@ http://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
 http://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://code.vthanhtivi.pw/getlink/mytv/200/hd.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
 http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
-https://code.vthanhtivi.pw/getlink/mytv/208/hd.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/208/hd.m3u8
 #https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 #http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
