@@ -46,12 +46,12 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
-#http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS + SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #https://code.vthanhtivi.pw/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/playlist.m3u8
 #http://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
-http://20.24.190.17/onspplus/mpegts
+https://api.anttv.xyz/get/vtvcab/vtvcab6/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="http://onetv.click/logo/on-sports.jpg" group-title="VTVCab",ON SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
@@ -69,7 +69,7 @@ http://20.24.190.17/onfb/mpegts
 #http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
 #https://code.vthanhtivi.pw/getlink/mytv/208/hd.m3u8
-#https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/playlist.m3u8
+https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 #http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
 http://103.75.186.169/b4tv/b4tv/1.m3u8
@@ -84,15 +84,16 @@ http://103.75.186.169/b4tv/b4tv/4.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/playlist.m3u8
 #http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
-http://20.24.190.17/onspn/mpegts
+https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 https://code.vthanhtivi.pw/getlink/mytv/441/hd.m3u8
 #EXTINF:-1, Ngoại hạng Anh 1
 #http://gg.gg/Nhang1
 #EXTINF:-1, Ngoại hạng Anh 2
-#http://gg.gg/Nhang2
-
+#http://gg.gg/Nhang3
+#EXTINF:-1, Ngoại hạng Anh 3
+#http://gg.gg/Nhang4
 #EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
 #EXTVLCOPT:http-user-agent=Thanhkb
 https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b1200000.m3u8
