@@ -32,6 +32,10 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png", VTV9 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Vtv" tvg-logo="https://logo.anttv.xyz/6.png", VTV5 Tây Nam Bộ
+https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Vtv" tvg-logo="https://logo.anttv.xyz/7.png", VTV5 Tây Nguyên
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 #EXTVLCOPT:http-user-agent="Thanhkb"
@@ -59,17 +63,22 @@ https://api.anttv.xyz/get/vtvcab/vtvcab6/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
+https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 http://20.24.190.17/onsp/mpegts
 #http://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
 http://20.24.190.17/onfb/mpegts
 #http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
 #https://code.vthanhtivi.pw/getlink/mytv/208/hd.m3u8
 https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 #http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
 http://103.75.186.169/b4tv/b4tv/1.m3u8
@@ -94,6 +103,37 @@ https://code.vthanhtivi.pw/getlink/mytv/441/hd.m3u8
 #http://gg.gg/Nhang3
 #EXTINF:-1, Ngoại hạng Anh 3
 #http://gg.gg/Nhang4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWt2lIPwf9mhnE833WrN13rCIl5yxidecVw&usqp=CAU" group-title="Seulangatv",Supersport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=414
+https://webudit.salamus1.lol/lb/premium414/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
+https://webudit.salamus1.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro Super Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
+https://webudit.salamus1.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711", Astro Super Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
+https://webudit.salamus1.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Super Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
+https://webudit.salamus1.lol/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", Astro Super Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
+https://webudit.salamus1.lol/lb/premium43/index.m3u8
+
+
 #EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
 #EXTVLCOPT:http-user-agent=Thanhkb
 https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b1200000.m3u8
