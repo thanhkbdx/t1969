@@ -56,23 +56,24 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctv
 #https://code.vthanhtivi.pw/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/playlist.m3u8
 #http://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
 https://api.anttv.xyz/get/vtvcab/vtvcab6/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="http://onetv.click/logo/on-sports.jpg" group-title="VTVCab",ON SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
-
+http://gg.gg/onsporthd
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
 https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 http://20.24.190.17/onsp/mpegts
-#http://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
+
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
-http://20.24.190.17/onfb/mpegts
+http://gg.gg/bongdahdtv
 #http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
@@ -96,13 +97,9 @@ http://103.75.186.169/b4tv/b4tv/4.ts
 https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
+http://gg.gg/thethaotintuc
 https://code.vthanhtivi.pw/getlink/mytv/441/hd.m3u8
-#EXTINF:-1, Ngoại hạng Anh 1
-#http://gg.gg/Nhang1
-#EXTINF:-1, Ngoại hạng Anh 2
-#http://gg.gg/Nhang3
-#EXTINF:-1, Ngoại hạng Anh 3
-#http://gg.gg/Nhang4
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWt2lIPwf9mhnE833WrN13rCIl5yxidecVw&usqp=CAU" group-title="Seulangatv",Supersport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
