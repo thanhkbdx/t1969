@@ -492,17 +492,13 @@ http://livevlive.vtvcab.vn/BTV5/m30_index.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Qu?c T?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 1
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 1
 #EXTVLCOPT:http-user-agent="Thanhkb"
-http://gg.gg/thanhHBO1
+http://14.225.44.14:8811/stream/channelid/1329093993?auth=PH3kVEG.cjxS8WxdgAWspmSzxnm4&profile=pass
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Qu?c T?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 2
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 3
 #EXTVLCOPT:http-user-agent="Thanhkb"
-https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-0-0.m3u8
-
-#EXTINF:-1 tvg-id="hbohd" group-title="Qu?c T?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 3
-#EXTVLCOPT:http-user-agent="Thanhkb"
-http://uslive.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -512,7 +508,7 @@ https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD 1
 #EXTVLCOPT:http-user-agent="Thanhkb"
-https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
+http://14.225.44.14:8811/stream/channelid/775322652?auth=PH3kVEG.cjxS8WxdgAWspmSzxnm4&profile=pass
 
 #https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc tế", CINEMAX HD 2
@@ -523,7 +519,7 @@ https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD 3
 #EXTVLCOPT:http-user-agent="Thanhkb"
-http://uslive.vthanhtivi.pw/cinemax
+http://live.vthanhtivi.pw/cinemax
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/192.png", Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -659,6 +655,11 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=axn
+https://subs-livecdn.fptplay.net/mskychannel/axnhd_4000.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/228.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent="Thanhkb"
