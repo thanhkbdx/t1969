@@ -50,7 +50,6 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 https://iplogger.com/21Vrb4
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS + SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
@@ -78,8 +77,8 @@ http://gg.gg/bongdahdtv
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
 #https://code.vthanhtivi.pw/getlink/mytv/208/hd.m3u8
-https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
-
+#https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
+https://iplogger.com/215pb4
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
@@ -87,7 +86,8 @@ https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 http://gg.gg/thethaotintuc
-https://iplogger.com/21Hpb4
+https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 #http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
 http://103.75.186.169/b4tv/b4tv/1.m3u8
