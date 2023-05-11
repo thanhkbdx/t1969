@@ -49,7 +49,7 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
-https://iplogger.com/21Vrb4
+http://20.24.190.17/onspplus/mpegts
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS + SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
