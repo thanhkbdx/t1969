@@ -35,8 +35,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Vtv" tvg-logo="https://logo.anttv.xyz/6.png", VTV5 Tây Nam Bộ
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Vtv" tvg-logo="https://logo.anttv.xyz/7.png", VTV5 Tây Nguyên
-https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
-
+https://vips-livecdn.fptplay.net/hda3/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
@@ -53,7 +52,7 @@ http://20.24.190.17/onspplus/mpegts
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS + SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
-#http://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
+https://iplogger.com/21Vrb4
 https://api.anttv.xyz/get/vtvcab/vtvcab6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="http://onetv.click/logo/on-sports.jpg" group-title="VTVCab",ON SPORTS
@@ -86,7 +85,7 @@ https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 http://gg.gg/thethaotintuc
-https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
+https://iplogger.com/21Hpb4
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 #http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
