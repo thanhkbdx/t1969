@@ -165,9 +165,9 @@ http://txt:87654321dbcA@myip3.duckdns.org:9981/stream/channel/253c57bede4f23d1f0
 #EXTINF:0 type="stream" channelId="-1" group-title="Th? thao", ONEGOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , BONG DA TBN
-https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 , BONG DA TBN 1
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title=" SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
