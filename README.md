@@ -36,6 +36,10 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Vtv" tvg-logo="https://logo.anttv.xyz/7.png", VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/hda3/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="World cup nữa" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
+#EXTVLCOPT:http-user-agent="Thanhkb"
+https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
