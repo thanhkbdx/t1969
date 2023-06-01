@@ -8,7 +8,8 @@
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv1.png", VTV1 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-https://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#https://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+http://103.56.160.133:8081/vtv1
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv2.png", VTV2 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
@@ -16,7 +17,8 @@ https://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv3.png", VTV3 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+http://103.56.160.133:8081/vtv3
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png", VTV4 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
@@ -24,7 +26,8 @@ https://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png", VTV5 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+http://103.56.160.133:8081/vtv5
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv6.png", VTV6 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
@@ -124,6 +127,9 @@ http://103.75.186.169/b4tv/b4tv/3.m3u8
 http://103.75.186.169/b4tv/b4tv/5.ts
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 http://103.75.186.169/b4tv/b4tv/4.ts
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
+http://103.75.186.169/b4tv/b4tv/2.ts
+
 #EXTINF:-1 group-title="SEA GAMES 32" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/640px-Logo_SEA_Games_32.svg.png", NGOAI HANG ANH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://gg.gg/Nhang5
@@ -131,28 +137,7 @@ http://103.75.186.169/b4tv/b4tv/4.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
-#EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",FPT
-#EXTVLCOPT:http-user-agent=Thanhkb
-https://livecdn.fptplay.net/hda1/f-channel1_vhls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp FPT (phát khi có trận)
-#EXTVLCOPT:http-user-agent=Thanhkb
-https://vips-livecdn.fptplay.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
 
-#EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp FPT (phát khi có trận)
-#EXTVLCOPT:http-user-agent=Thanhkb
-https://vips-livecdn.fptplay.net/epzsport/thethao02_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp FPT (phát khi có trận)
-#EXTVLCOPT:http-user-agent=Thanhkb
-https://vips-livecdn.fptplay.net/epzsport/thethao03_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp FPT (phát khi có trận)
-#EXTVLCOPT:http-user-agent=Thanhkb
-https://vips-livecdn.fptplay.net/epzsport/thethao04_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp FPT (phát khi có trận)
-#EXTVLCOPT:http-user-agent=Thanhkb
-https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Live FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", Trực tiếp FPT (phát khi có trận)
-#EXTVLCOPT:http-user-agent=Thanhkb
-https://vips-livecdn.fptplay.net/epzsport/thethao05_vhls.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US : TENNIS CHANNEL FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/2568ebd6306508d7fce286137a04ba5f.png" group-title="USA FULL HD",US : TENNIS CHANNEL FHD 720
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
