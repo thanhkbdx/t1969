@@ -69,6 +69,8 @@ http://stream.cvmtv.site/PolsatE?token=live
 http://stream.cvmtv.site/PolsatN?token=live
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+ SPORT1 HD
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
+#EXTINF:-1 , #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
+http://txt:87654321dbcA@myip3.duckdns.org:9981/stream/channel/253c57bede4f23d1f017ed0781184e9f?ticket=b20113c6f82e0f178e276f293fd831416073412d
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ CINE IPTV
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="K+", K+LIFE IPTV
@@ -109,13 +111,12 @@ https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
-http://gg.gg/bongdahdtv
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Ulu6DdFdEKoNRZC1kSMUKdg/m3u8
 #http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/215pb4
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Ulu6DdFdEKoNRZC1kSMUKdg/m3u8
 #https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS
@@ -155,9 +156,6 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US : TENNIS CHANNEL FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/2568ebd6306508d7fce286137a04ba5f.png" group-title="USA FULL HD",US : TENNIS CHANNEL FHD 720
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
-
-#EXTINF:-1 , #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
-http://txt:87654321dbcA@myip3.duckdns.org:9981/stream/channel/253c57bede4f23d1f017ed0781184e9f?ticket=b20113c6f82e0f178e276f293fd831416073412d
 
 #EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON Sports ENG
 #http://livevlive.vtvcab.vn/ONSPORTTA/m30_index.m3u8
