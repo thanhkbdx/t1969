@@ -76,12 +76,20 @@ http://stream.cvmtv.site/TVPS?token=live
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
 #EXTINF:-1 , #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
 http://txt:87654321dbcA@myip3.duckdns.org:9981/stream/channel/253c57bede4f23d1f017ed0781184e9f?ticket=b20113c6f82e0f178e276f293fd831416073412d
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ CINE IPTV
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="K+", K+LIFE IPTV
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/k2sport" group-title="K+", K+SPORT 2 IPTV
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8 
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ CINE IPTV
+http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB2ZArfZ4MAmliObrZuBut-YZuOcFp4vaEWVydKM-_qqr/m3u8
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="K+", K+LIFE IPTV
+http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB2ZArfZ4MAmliObrZuBut-YZuOcFp4vaEWVydKM-_qqr/m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/dvkkdk", K+ HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -105,8 +113,10 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://code.vthanhtivi.pw/getlink/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/playlist.m3u8
 https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
-https://hqth.me/onsportjungo
 
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://hqth.me/onsportjungo
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football HD
 #https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
@@ -116,7 +126,7 @@ https://hqth.me/onsportjungo
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Ulu6DdFdEKoNRZC1kSMUKdg/m3u8
+https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
 #http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
