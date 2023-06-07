@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #https://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-http://103.56.160.133:8081/vtv1
+[http://103.56.160.133:8081/vtv1](http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8)
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv2.png", VTV2 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
@@ -53,7 +53,14 @@ http://donglao.duckdns.org/vn360sport/viettel.php?id=207
 #EXTINF:-1 tvg-id="quochoi" group-title="World cup nữa" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", World cup bóng đá nữ
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 tvg-name="801" group-title="Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
+https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
+#EXTINF:-1 tvg-name="802" group-title="Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 
+https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8 
+#EXTINF:-1 tvg-name="803" group-title="Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 
+https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
+#EXTINF:-1 tvg-name="804" group-title="Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 
+https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
