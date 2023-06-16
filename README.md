@@ -31,7 +31,8 @@ http://103.82.25.24:8081/vtv5
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv6.png", VTV6 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-https://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#https://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+https://hqth.me/vtv6360
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png", VTV7 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
