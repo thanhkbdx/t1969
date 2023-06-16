@@ -18,7 +18,7 @@ https://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-http://103.56.160.133:8081/vtv3
+http://103.82.25.24:8081/vtv3
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png", VTV4 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
@@ -27,7 +27,7 @@ https://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-http://103.56.160.133:8081/vtv5
+http://103.82.25.24:8081/vtv5
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv6.png", VTV6 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
@@ -196,7 +196,7 @@ http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv3-hd
 http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv4-hd
 #EXTINF:-1 tvg-id="vtv5hd" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/27/s96psn20_vtv5bdd33f05b45edf0c7b72cd892ad3c52a_296_168.webp",❤️VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv5-hd
+https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp",❤️VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv5-tay-nam-bo
