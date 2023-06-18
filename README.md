@@ -71,6 +71,9 @@ http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
 https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+#EXTINF:-1 group-title="đŸ†|AVC Challenge Cup for Women 2023" tvg-logo="https://thumbor.prod.vidiocdn.com/SAhIPX5A-hnhWzGWzUh937X95AY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Moji Bóng chuyền Châu á
+http://donglao.duckdns.org/vn360sport/vidio.php?id=206
+
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Bóng chuyền Quốc tế
 http://stream.cvmtv.site/Polsat?token=live
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Bóng chuyền Quốc tế
