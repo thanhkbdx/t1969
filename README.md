@@ -137,19 +137,16 @@ https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/21Hpb4.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.75.186.169/b4tv/b4tv/1.m3u8
+http://103.77.175.153/b4tv/b4tv/1.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.75.186.169/b4tv/b4tv/3.m3u8
+http://103.77.175.153/b4tv/b4tv/3.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 http://103.75.186.169/b4tv/b4tv/5.ts
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.75.186.169/b4tv/b4tv/4.ts
+http://103.77.175.153/b4tv/b4tv/4.ts
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.75.186.169/b4tv/b4tv/2.ts
+http://103.77.175.153/b4tv/b4tv/2.ts
 
-#EXTINF:-1 group-title="SEA GAMES 32" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/640px-Logo_SEA_Games_32.svg.png", NGOAI HANG ANH
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://gg.gg/Nhang5
 #EXTINF:-1 group-title="SEA GAMES 32" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/640px-Logo_SEA_Games_32.svg.png", HTV THỂ THAO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
