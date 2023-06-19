@@ -86,16 +86,17 @@ http://stream.cvmtv.site/PolsatN?token=live
 http://stream.cvmtv.site/TVPS?token=live
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+ SPORT1 HD
 http://103.77.175.153/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
+
 #EXTINF:-1 , #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
 http://txt:87654321dbcA@myip3.duckdns.org:9981/stream/channel/253c57bede4f23d1f017ed0781184e9f?ticket=b20113c6f82e0f178e276f293fd831416073412d
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/k2sport" group-title="K+", K+SPORT 2 IPTV
-http://103.77.175.153/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8 
-
+#http://103.77.175.153/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8 
+http://103.77.175.153/play/DneU6UNke93O95EqYPvofwtLZoYlVVpuK535xZo_u9c/m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ CINE IPTV
 http://103.77.175.153/play/DneU6UNke93O95EqYPvof9OzKLQ-OxUeEJM_UZ1VjZg/m3u8
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="K+", K+LIFE IPTV
-http://103.77.175.153/play/PlJVLeh3OFlevh__G-rmB2ZArfZ4MAmliObrZuBut-YZuOcFp4vaEWVydKM-_qqr/m3u8
-
+#http://103.77.175.153/play/PlJVLeh3OFlevh__G-rmB2ZArfZ4MAmliObrZuBut-YZuOcFp4vaEWVydKM-_qqr/m3u8
+http://103.77.175.153/play/DneU6UNke93O95EqYPvof8FzlbqYxiqkxwx27wBq_Ao/m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV
 http://103.77.175.153/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
