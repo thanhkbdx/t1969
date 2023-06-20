@@ -72,7 +72,6 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , Tructiep 
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 group-title="đŸ†|AVC Challenge Cup for Women 2023" tvg-logo="https://thumbor.prod.vidiocdn.com/SAhIPX5A-hnhWzGWzUh937X95AY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Bóng chuyền Châu á
-https://cdn.jwplayer.com/manifests/8L4m9FJB.m3u8#mSTKrCD
 http://donglao.duckdns.org/vn360sport/vidio.php?id=206
 #EXTINF:-1 group-title="đŸ†|AVC Challenge Cup for Women 2023" tvg-logo="https://thumbor.prod.vidiocdn.com/SAhIPX5A-hnhWzGWzUh937X95AY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Bóng chuyền Châu á
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
