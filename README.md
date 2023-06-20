@@ -123,7 +123,7 @@ https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/21kwb4.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -132,8 +132,8 @@ https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/215pb4.m3u8
-#https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/on-football/chunklist_b5128000.m3u8
+
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
@@ -142,7 +142,7 @@ https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/21Hpb4.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/on-sports-news/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
 http://103.77.175.153/b4tv/b4tv/1.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
