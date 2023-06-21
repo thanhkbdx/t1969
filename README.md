@@ -17,8 +17,11 @@ https://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv3.png", VTV3 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-http://103.82.25.24:8081/vtv3
+https://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv3.png", VTV3 
+#EXTVLCOPT:http-user-agent="Thanhkb"
+#https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png", VTV4 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
@@ -27,7 +30,7 @@ https://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #https://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-http://103.82.25.24:8081/vtv5
+http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv6.png", VTV6 
 #EXTVLCOPT:http-user-agent="Thanhkb"
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
