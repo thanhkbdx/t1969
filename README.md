@@ -84,14 +84,19 @@ http://stream.cvmtv.site/PolsatN?token=live
 
 #EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TT Tổng hợp
 http://stream.cvmtv.site/TVPS?token=live
-
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersports 
+#EXTVLCOPT:http-user-agent="ThanhKB"
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",2.Astro Supersports 
+#EXTVLCOPT:http-user-agent="ThanhKB"
 https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersports 
+#EXTVLCOPT:http-user-agent="ThanhKB"
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",4.Astro Supersports 
+#EXTVLCOPT:http-user-agent="ThanhKB"
 https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",5.Astro Supersports 
+#EXTVLCOPT:http-user-agent="ThanhKB"
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+ SPORT1 HD
 #http://103.77.175.153/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
