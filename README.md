@@ -222,9 +222,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
 #EXTINF:0 type="stream" channelId="-1" group-title="Thể thao", ONEGOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , BONG DA TBN
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
+https://inet.tinchuanchuaanh.com/hls/v1/e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 , BONG DA TBN 1
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
+#https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title=" SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
 https://hqth.me/onsportsaction?idload=14/01.m3u8
 #EXTINF:-1 tvg-id="btv6" group-title="SCTV" tvg-logo="https://i.ibb.co/w0MCp0P/BTV6.png",BTV6
