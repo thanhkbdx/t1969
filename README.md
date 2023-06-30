@@ -226,7 +226,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m
 #EXTINF:-1 , BONG DA TBN 1
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title=" SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+https://hqth.me/onsportsaction?idload=14/01.m3u8
 #EXTINF:-1 tvg-id="btv6" group-title="SCTV" tvg-logo="https://i.ibb.co/w0MCp0P/BTV6.png",BTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=btv6
