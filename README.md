@@ -82,7 +82,7 @@ http://stream.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Bóng chuyền Quốc tế
 http://stream.cvmtv.site/PolsatN?token=live
 
-#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TT Tổng hợp
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TT Tổng hợp
 http://stream.cvmtv.site/TVPS?token=live
 #EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
@@ -141,10 +141,10 @@ http://103.56.160.133:8081/klife
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/21Vrb4.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsportsplus.php
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/c0eeb4c290e50bccfab670b66f28459d154da720/1687950012/vtvcab6-on-sport-plus/playlist.m3u8
 
@@ -188,38 +188,36 @@ https://code.vthanhtivi.pw/getlink/cliptv/on-sports-news/chunklist_b5128000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/c0eeb4c290e50bccfab670b66f28459d154da720/1687950012/vtvcab18-on-sports-news/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.77.175.153/b4tv/b4tv/1.m3u8
+http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.77.175.153/b4tv/b4tv/3.m3u8
+http://b4tv.live/b4tv/b4tv/3.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.77.175.153/b4tv/b4tv/5.ts
+http://b4tv.live/b4tv/b4tv/5.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", Bóng dá TV +
-http://103.77.175.153/b4tv/b4tv/4.ts
+http://b4tv.live/b4tv/b4tv/4.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVCab16 - Bóng dá TV HD" tvg-logo="https://imgur.com/Za0PsjM.png" group-title="VTVCab" tvg-chno="36", PhimTV +
-http://103.77.175.153/b4tv/b4tv/2.ts
+http://b4tv.live/b4tv/b4tv/2.m3u8
 
 #EXTINF:-1 group-title="SEA GAMES 32" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/640px-Logo_SEA_Games_32.svg.png", HTV THỂ THAO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
-
-
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US : TENNIS CHANNEL FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/2568ebd6306508d7fce286137a04ba5f.png" group-title="USA FULL HD",US : TENNIS CHANNEL FHD 720
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
 
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON Sports ENG
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON Sports ENG
 #http://livevlive.vtvcab.vn/ONSPORTTA/m30_index.m3u8
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png", ON Football ENG
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png", ON Football ENG
 #http://livevlive.vtvcab.vn/ONFOOTBALLTA/m30_index.m3u8
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png", ON Sports News ENG
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png", ON Sports News ENG
 #http://livevlive.vtvcab.vn/ONSPORTNEWSTA/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON Golf ENG
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON Golf ENG
 #http://livevlive.vtvcab.vn/ONGOLFTA/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng dá Việt
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng dá Việt
 #http://livevlive.vtvcab.vn/ONVFFTV/m30_index.m3u8
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
 #http://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Thể thao", ONEGOLF
@@ -615,7 +613,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế?" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/209.png", Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/209.png", Arirang
 #EXTVLCOPT:http-user-agent="Thanhkb"
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/210.png", ABC Australia
