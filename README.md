@@ -502,8 +502,8 @@ https://api.anttv.xyz/get/vtvcab/vtvcab18/playlist.m3u8
 http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title=" VTVcab" tvg-logo="https://logo.anttv.xyz/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/${start}/${offset}.m3u8", VTVcab 19 - Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 https://api.anttv.xyz/get/vtvcab/vtvcab19/playlist.m3u8
+https://iplogger.com/2iKNP7
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title=" VTVcab" tvg-logo="https://logo.anttv.xyz/31.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/${start}/${offset}.m3u8", VTVcab 20 - ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/get/vtvcab/vtvcab20/playlist.m3u8
@@ -528,17 +528,14 @@ http://livevlive.vtvcab.vn/BTV5/m30_index.m3u8
 #EXTVLCOPT:http-user-agent="Thanhkb"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 1
-#EXTVLCOPT:http-user-agent="Thanhkb"
-http://14.225.44.14:8811/stream/channelid/1329093993?auth=PH3kVEG.cjxS8WxdgAWspmSzxnm4&profile=pass
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 3
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 
 #EXTVLCOPT:http-user-agent="Thanhkb"
-http://live.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo/index.m3u8
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD 3
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/245.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD 
 #EXTVLCOPT:http-user-agent="Thanhkb"
-http://live.vthanhtivi.pw/cinemax
+http://live.vthanhtivi.pw/cinemax/index.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
