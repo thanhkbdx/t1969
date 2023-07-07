@@ -520,12 +520,10 @@ https://api.anttv.xyz/get/vtvcab/vtvcab23/playlist.m3u8
 http://livevlive.vtvcab.vn/THETHAO_GOLF_HD/m401_index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title=" VTVcab" tvg-logo="https://logo.anttv.xyz/256.png", ON Sports Action
-http://livevlive.vtvcab.vn/BTV5/m30_index.m3u8
-
+https://hqth.me/onsportsaction?idload=14/01.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Địa phuong" logo="http://images.zaltv.club/logo/phu-yen.png", Phú Yên HD
 #EXTVLCOPT:http-user-agent="Thanhkb"
-https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-
+https://code.vthanhtivi.pw/getlink/fptplay/phu-yen/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="http://vn1.vthanhtivii.xyz:8443/ic/244.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD 
 #EXTVLCOPT:http-user-agent="Thanhkb"
