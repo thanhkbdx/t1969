@@ -92,36 +92,30 @@ http://stream.cvmtv.site/PolsatN?token=live
 http://stream.cvmtv.site/FS1?token=live
 #EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 http://stream.cvmtv.site/FS2?token=live
-
-#EXTINF:-1 tvg-id="" group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro Super Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TT Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711", Astro Super Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="TT Quốc tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Super Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="TT Quốc tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", Astro Super Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+#EXTINF:-1 group-title="TT Quốc tế",AFC ASIAN CUP
+http://epg.protv.cc:80/Verhoeven/Verhoeven/716051
+#EXTINF:-1 group-title="TT Quốc tế",AFC ASIAN CUP
+http://epg.protv.cc:80/Verhoeven/Verhoeven/716050
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 1
+http://epg.protv.cc:80/Verhoeven/Verhoeven/1032479
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 2
+http://epg.protv.cc:80/Verhoeven/Verhoeven/1032478
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 3
+http://epg.protv.cc:80/Verhoeven/Verhoeven/1032477
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 4
+http://epg.protv.cc:80/Verhoeven/Verhoeven/1032476
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",5Now Sports 5
+http://epg.protv.cc:80/Verhoeven/Verhoeven/1032475
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 6
+http://epg.protv.cc:80/Verhoeven/Verhoeven/1032474
+#EXTINF:-1 group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 7
+http://epg.protv.cc:80/Verhoeven/Verhoeven/1032473
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+ SPORT1 HD
 #http://103.77.175.153/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
 #http://103.77.175.153/play/DneU6UNke93O95EqYPvofwtLZoYlVVpuK535xZo_u9c/m3u8
-http://103.56.160.133:8081/ksport1
+#http://103.56.160.133:8081/ksport1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -129,21 +123,16 @@ http://txt:87654321dbcA@myip3.duckdns.org:9981/stream/channel/253c57bede4f23d1f0
 
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/k2sport" group-title="K+", K+SPORT 2 IPTV
 #http://103.77.175.153/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8 
-http://103.56.160.133:8081/ksport2
+#http://103.56.160.133:8081/ksport2
 #http://103.77.175.153/play/DneU6UNke93O95EqYPvofwtLZoYlVVpuK535xZo_u9c/m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ CINE IPTV
-http://103.56.160.133:8081/kcine
+#http://103.56.160.133:8081/kcine
 #http://103.77.175.153/play/DneU6UNke93O95EqYPvof9OzKLQ-OxUeEJM_UZ1VjZg/m3u8
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="K+", K+LIFE IPTV
 #http://103.77.175.153/play/PlJVLeh3OFlevh__G-rmB2ZArfZ4MAmliObrZuBut-YZuOcFp4vaEWVydKM-_qqr/m3u8
-http://103.56.160.133:8081/klife
+#http://103.56.160.133:8081/klife
 #http://103.77.175.153/play/DneU6UNke93O95EqYPvof8FzlbqYxiqkxwx27wBq_Ao/m3u8
-#EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV
-#http://103.77.175.153/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/dvkkdk", K+ HBO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://103.77.175.153/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",ON SPORTS+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
