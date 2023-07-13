@@ -54,7 +54,7 @@ http://donglao.duckdns.org/vn360sport/viettel.php?id=157
 http://donglao.duckdns.org/vn360sport/viettel.php?id=207
 #https://vips-livecdn.fptplay.net/hda3/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="quochoi" group-title="World cup nữa" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", World cup bóng đá nữ
+#EXTINF:-1 tvg-id="quochoi" group-title="World cup nữa" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", World cup BĐ Nữ
 #EXTVLCOPT:http-user-agent="Thanhkb"
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 
@@ -81,17 +81,21 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695
 
 #EXTINF:-1 group-title="TT Quốc tế" tvg-logo="http://gg.gg/live4kkkkk",1.Live Concacaf Fox Sport 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
-
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",Concacaf
+#EXTVLCOPT:http-user-agent="ThanhKB"
+https://webudit.cdnhks.lol/lb/premium123/index.m3u8
 #EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Bóng chuyền Quốc tế
 http://stream.cvmtv.site/Polsat?token=live
 #EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Bóng chuyền Quốc tế
 http://stream.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Bóng chuyền Quốc tế
 http://stream.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",Bóng chuyền Quốc tế
+https://webudit.cdnhks.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",oncacaf
 http://stream.cvmtv.site/FS1?token=live
-#EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
-http://stream.cvmtv.site/FS2?token=live
+
 #EXTINF:-1 group-title="TT Quốc tế",AFC ASIAN CUP
 http://epg.protv.cc:80/Verhoeven/Verhoeven/716051
 #EXTINF:-1 group-title="TT Quốc tế",AFC ASIAN CUP
@@ -159,8 +163,6 @@ https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/onsports.html
-#http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
-
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
