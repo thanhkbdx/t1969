@@ -90,10 +90,17 @@ http://stream.cvmtv.site/Polsat?token=live
 http://stream.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Bóng chuyền Quốc tế
 http://stream.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",Bóng chuyền Quốc tế
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",Bóng chuyền Quốc tế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
 https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 
-#EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",oncacaf
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", CONCACAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
+https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 group-title="TT Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",CONCACAF
 http://stream.cvmtv.site/FS1?token=live
 
 #EXTINF:-1 group-title="TT Quốc tế",AFC ASIAN CUP
@@ -149,6 +156,9 @@ https://tiemnhazunn.click/vieon/onsportsplus.php
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/get/vtvcab/vtvcab6/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVCab3 - Thể thao TV HD" tvg-logo="https://imgur.com/CAXwer6.png" group-title="VTVCab" tvg-chno="26",VTVCab3 - Thể thao TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -163,15 +173,25 @@ https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab" , VTVCab16 - ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/onsports.html
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab  , VTVCab16 - ON FOOTBALL
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONFOOTBALLHD_150x901.jpg" group-title="VTVCab "  , VTVCab16 - ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/get/vtvcab/vtvcab16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsportsnews.php
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.org/vieon.link?id=on-sports-news
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="http://onetv.click/logo/on-sportsnews.jpg", ON SPORTS NEWS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
